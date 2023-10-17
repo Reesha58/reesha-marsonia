@@ -1,0 +1,11 @@
+cherry blossom pink : efb0a1 f4afb4 c9b7ad 94a89a 797d81
+blue                : e63946 f1faee a8dadc 457b9d 1d3557
+light pink          : 8e9aaf cbc0d3 efd3d7 feeafa dee2ff
+pink                : d8e2dc ffffff ffcad4 f4acb79d8189
+
+
+
+
+//font-family::
+font family1:     https://fonts.google.com/specimen/Young+Serif
+font family2:     https://fonts.google.com/specimen/Roboto+Slab
